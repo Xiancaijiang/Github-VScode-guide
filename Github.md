@@ -2,7 +2,7 @@
 
 ## 1.Git 和 Github分别是什么
 Git 是一个运行在你电脑上的版本控制软件，而Github是基于Git这个版本控制软件打造的网站。
-Git的三个概念:提交 commit、仓库repository、分支 branch
+Git的三个概念:提交 commit、仓库repository、分支 branch。
 
 ## 2.安装
 
